@@ -17,3 +17,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-22
 - Updated .gitignore to exclude build artifacts
 - Pinned dependency versions for reproducibility
+
+## 2026-04-12
+- Added healthcheck endpoint stub
+- Reviewed open issues, added labels
+- Updated .gitignore to exclude build artifacts
