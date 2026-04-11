@@ -26,3 +26,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-04-12
 - Bumped patch version
 - Cleaned up old debug logs
+
+## 2026-04-12
+- Checked for memory leaks in long-running path
