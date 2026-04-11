@@ -22,3 +22,7 @@ Personal development log — notes, findings, and ongoing work.
 - Added healthcheck endpoint stub
 - Reviewed open issues, added labels
 - Updated .gitignore to exclude build artifacts
+
+## 2026-04-12
+- Bumped patch version
+- Cleaned up old debug logs
